@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AcercaDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Empleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Facturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frmayuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmFacturas1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmListasClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmRoles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmValidar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Informes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Productos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Roles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Seguridad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
